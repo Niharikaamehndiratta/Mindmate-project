@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+plotly
+groq
+textblob
+streamlit-webrtc
+pyttsx3
+SpeechRecognition
+coqui-tts
+torch
+torchaudio
+wordcloud
