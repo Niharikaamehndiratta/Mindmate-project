@@ -19,9 +19,7 @@ git clone https://github.com/your-username/mindmate.git
 cd mindmate
 pip install -r requirements.txt
 python app.py
-📷 Demo
 
-(Add screenshots or demo video here)
 
 🎯 Objective
 
